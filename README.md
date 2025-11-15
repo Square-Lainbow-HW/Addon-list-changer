@@ -18,6 +18,8 @@ Type 1: Turn off all addons (Feature)
 Type 2: stop addon getting removed from hammer map testing
 Type 3: Back to Normal
 
+If you want to download it. Click Code and Download as ZIP
+
 After that. Have fun editing yo map!
 
 ![khaby](https://github.com/user-attachments/assets/00970cc2-7996-4779-a24e-585e3709a958)
