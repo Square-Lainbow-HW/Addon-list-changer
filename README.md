@@ -20,6 +20,6 @@ now you have choosen options there. Which it explains it all:
 
 If you want to download it. Click Code and Download as ZIP
 
-After that. Have fun editing yo map!
+After that. Have fun testing yo map!
 
 ![khaby](https://github.com/user-attachments/assets/00970cc2-7996-4779-a24e-585e3709a958)
